@@ -1,0 +1,2 @@
+# gonya
+Go project starter
